@@ -25,6 +25,7 @@
 
   #nav-pc > a {
     text-decoration: none;
+    margin-left: 20px;
   }
 
   #nav-pc > a:link {
